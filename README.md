@@ -28,7 +28,7 @@ Work with REST Countries, simply display all countries search country.
 You can clone this project :
 
 ```bash
-    git clone https://github.com/markopersonally/task-cities.git
+    git clone https://github.com/m4rcin7/task-cities.git
     npm install
 ```
     
